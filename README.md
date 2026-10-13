@@ -1,7 +1,9 @@
 📊 Superstore Sales Insights Dashboard (Power BI)
 This project is a Power BI Sales Insights Dashboard built using the Superstore dataset.
 
+
 It analyzes sales, profit, product performance, and regional trends to provide clear, actionable business insights.
+
 
 🔍 Project Overview
 The goal of this project is to demonstrate core Power BI skills:
@@ -31,6 +33,7 @@ Slicers & Filters
 
 Interactive Visuals
 
+
 📅 DAX Measures
 Total Sales = SUM(Orders[Sales])
 
@@ -42,6 +45,7 @@ Total Quantity = SUM(Orders[Quantity])
 
 Date Table:
 Date = CALENDAR(MIN(Orders[Order Date]), MAX(Orders[Order Date]))
+
 
 📈 Dashboard Visuals
 The report includes:
@@ -59,6 +63,7 @@ Slicers: Date, Region, Category
 
 Insights Text Box
 
+
 🧠 Key Insights
 Technology leads in total sales across all regions.
 
@@ -67,6 +72,7 @@ Office Supplies shows strong profit margins despite lower sales volume.
 The West region consistently outperforms other regions.
 
 Top 10 products contribute a significant portion of total revenue.
+
 
 📁 Files Included
 Superstore_Sales_Insights.pbix — Power BI report file
