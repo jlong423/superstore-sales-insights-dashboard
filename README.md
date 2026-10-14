@@ -1,6 +1,7 @@
 📊 Superstore Sales Insights Dashboard (Power BI)
 This project is a Power BI Sales Insights Dashboard built using the Superstore dataset.
-<img width="1198" height="670" alt="Superstore Dashboard Overview" src="https://github.com/user-attachments/assets/f2ac7eb0-111e-483f-aafe-a2f188512377" />
+<img width="685" height="643" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/58140083-32fe-4b0e-bb53-45723eb4c47e" />
+
 
 
 
