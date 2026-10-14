@@ -39,9 +39,9 @@ Interactive Visuals
 
 📅 DAX Measures
 
-<img width="442" height="251" alt="Superstore DAX sales" src="https://github.com/user-attachments/assets/3f1616de-0034-47da-a553-893ba0b8d355" />
-<img width="462" height="233" alt="Superstore DAX profit" src="https://github.com/user-attachments/assets/6a57251f-1c13-4204-a690-0256c5106ab4" />
-<img width="615" height="255" alt="Superstore DAX profit margin" src="https://github.com/user-attachments/assets/375a618c-2ac9-4dfd-8ae3-74e151bcdabd" />
+<img width="442" height="233" alt="Superstore DAX sales" src="https://github.com/user-attachments/assets/3f1616de-0034-47da-a553-893ba0b8d355" /> <br>
+<img width="442" height="233" alt="Superstore DAX profit" src="https://github.com/user-attachments/assets/6a57251f-1c13-4204-a690-0256c5106ab4" /> <br>
+<img width="442" height="233" alt="Superstore DAX profit margin" src="https://github.com/user-attachments/assets/375a618c-2ac9-4dfd-8ae3-74e151bcdabd" />
 
 
 
